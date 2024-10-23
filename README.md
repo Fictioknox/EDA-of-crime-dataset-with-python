@@ -8,7 +8,7 @@
 **Pandas & NumPy:** For data manipulation and transformation.<br>
 **Seaborn & Matplotlib:** For creating insightful visualizations like bar charts and heatmaps.<br>
 **Jupyter Notebook:** For executing and documenting the analysis.<br>
-**SQL:** Could be used for database queries (optional).<br>
+
 
 ## 1. 🎯 Purpose of the Analysis <br>
 The aim of this analysis is to: <br>
